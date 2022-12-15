@@ -1,10 +1,10 @@
 # Animated-phones
 
->This project uses CSS animation properties to create a 2D animation effect.
+>This project uses CSS animation properties to create a 2D animation effect that can be viewed on a laptop or desktop.
 
 ## Live Demo
 
-[Demo Link]()
+[Demo Link](https://raw.githack.com/Takhmina175/Animated-phones/main/index.html)
 
 
 👤 **Takhmina Makhkamova**
